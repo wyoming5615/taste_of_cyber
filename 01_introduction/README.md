@@ -6,10 +6,10 @@ The key learning outcomes of this unit are:
 
 * Able to log into the Edinburgh Napier system.
 
-## Morning Session:
+## Morning Session
 This will provide an introduction to the course.
 
-## Afternoon Session: 
+## Afternoon Session
 This will investigate some crime.
 
 ## Presentator
