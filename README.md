@@ -28,6 +28,6 @@ Room: D10, Merchiston
 
 <hr style="border: 2px solid#5b9aa0;" />
 
-<img src="https://www.napier.ac.uk/~/media/worktribe/person/file-110736.jpg?h=200&as=1&hash=9E36923336CCDD42AC8EB5A466D2E77D3980957C" align="left"/> <b>Bill Buchanan</p> is a Professor in the School of Computing at Edinburgh Napier University, and a Fellow of the BCS and the IET. He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cyber security. In 2018 he received an “Outstanding Contribution to Knowledge Exchange” at the Scottish Knowledge Exchange Awards. One of his most recent achievements is the creation of a Blockchain Identify Lab and which is one of the first of its type in the world, and has significant industry funding. 
+<img src="https://www.napier.ac.uk/~/media/worktribe/person/file-110736.jpg?h=200&as=1&hash=9E36923336CCDD42AC8EB5A466D2E77D3980957C" align="left"/> <b>Bill Buchanan</b> is a Professor in the School of Computing at Edinburgh Napier University, and a Fellow of the BCS and the IET. He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cyber security. In 2018 he received an “Outstanding Contribution to Knowledge Exchange” at the Scottish Knowledge Exchange Awards. One of his most recent achievements is the creation of a Blockchain Identify Lab and which is one of the first of its type in the world, and has significant industry funding. 
 
 
