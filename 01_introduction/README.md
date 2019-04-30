@@ -11,3 +11,7 @@ This will provide an introduction to the course.
 
 ## Afternoon Session: 
 This will investigate some crime.
+
+## Presentator
+
+<img src="https://www.napier.ac.uk/~/media/worktribe/person/file-122916.png?h=200&as=1&hash=A9CB9256B7EF65D8DA5C5FBB252796802137EA59" align="right"/> <b>Basil Manoussos</b> is the Manager of The Cyber Academy, at the School of Computing, Edinburgh Napier University. e has been working in the field of Digital Forensics since 2009, after graduating with his MSc Forensic Informatics from the University of Strathclyde. His work has been conducted through Strathclyde Forensics, his own consultancy. He has been providing Forensic Reports and Expert Witness testimony to criminal and civil cases 
