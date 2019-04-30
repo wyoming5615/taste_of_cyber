@@ -1,4 +1,8 @@
 # A Taste of Cyber
+## Details
+Room: D10, Merchiston
+
+## Course Content
 
 1. Tuesday 30 April: Introduction. Basil. [Link]( https://github.com/billbuchanan/taste_of_cyber/tree/master/01_introduction).
 2. Thursday 2 May: Wireshark. Adrian.
