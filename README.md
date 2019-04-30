@@ -24,3 +24,6 @@ Room: D10, Merchiston
 <hr style="border: 2px solid#5b9aa0;" />
 
 
+<img src="https://www.napier.ac.uk/~/media/worktribe/person/file-122339.jpg?h=200&as=1&hash=677F6F96FAB36288CD92971A39BC634136F53C86" align="right"/> <b>Sean McKeown</b> is a Lecturer/early career researher in the Cyber Security and Networks group. He is module leader of Computer Systems 1 and is also involved in the delivery of several cyber security and forensics modules, as well as overseeing a number of student projects. Sean's research area is primarily Digital Forensics, focusing on improving the speed of forensics processing for criminal investigations. Sean also has some background in Information Retrieval, particularly in relation to the serch behaviours of Open Source Intelligence Analysts. 
+
+
