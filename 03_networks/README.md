@@ -9,7 +9,9 @@ The key learning outcomes of this unit are:
 ## Morning Session
 This will provide over view of networking concepts and basic devise configuration
 
-[lecture](Unit1.pdf)
+Lecture in pdf format - [Lecture 1](Lecture1-INtro_Networking.pptx)
+Lab 1 - basic network configuration - [Lab1](Lab1.pdf)
+Notes - basic networking and security concepts - [Notes](Unit1.pdf)
 
 ## Afternoon Session
 This will provide the information regarding the role of firewalls within organisation.
