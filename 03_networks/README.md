@@ -7,7 +7,7 @@ The key learning outcomes of this unit are:
 * Basic router and firewall configuration to support user traffic
 
 ## Morning Session
-This will provide over view of networking concepts and basic devise configuration
+This will provide an overview of networking concepts and basic devise configuration
 
 * Lecture in pdf format - [Lecture 1](Lecture1-INtro_Networking.pdf)
 * Lab 1 - basic network configuration - [Lab1](Lab1.pdf)
