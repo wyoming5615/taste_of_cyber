@@ -9,5 +9,7 @@ The key learning outcomes of this unit are:
 ## Morning Session
 This will provide over view of networking concepts and basic devise configuration
 
+[lecture](taste_of_cyber/03_networks/Lecture1-INtro_Networking.pptx)
+
 ## Afternoon Session
 This will provide the information regarding the role of firewalls within organisation.
