@@ -15,3 +15,7 @@ This will provide over view of networking concepts and basic devise configuratio
 
 ## Afternoon Session
 This will provide the information regarding the role of firewalls within organisation.
+* Lecture in pdf format - [Lecture 2](Lecture2 Firewalls.pdf)
+* Lab 2 - basic firewall configuration - [Lab2](Lab2.pdf)
+* Notes - basic firewall concepts - [Notes](Unit4.pdf)
+* Notes - practical application of firewalls - [Notes](Unit5.pdf)
